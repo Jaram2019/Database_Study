@@ -6,3 +6,6 @@
 |------|------|
 |DongHyun Goh | No.1 |
 |Minju Kim | No.2 | 
+
+##Using stacks
+MySQL
