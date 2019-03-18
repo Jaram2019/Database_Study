@@ -5,4 +5,4 @@
 | Name | Role |
 |------|------|
 |DongHyun Goh | No.1 |
-|Minjoo Kim | No.2 | 
+|Minju Kim | No.2 | 
