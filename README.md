@@ -1,11 +1,14 @@
-# 2019_Spring_Jaram_Database_Study
+# 2019년 1학기 자람 스터디
+## DATABASE
 
-## Members
+### 구성원
+|      | 이름  |  역할 |
+|------|------|------
+|1번   | 고동현 |  미정 |
+|2번   | 김민주 |  미정 |
 
-| Name | Role |
-|------|------|
-|DongHyun Goh | No.1 |
-|Minju Kim | No.2 | 
+### 사용언어
+MySQL, PHP
 
-## Using Stack
-MySQL
+###목표
+미정
